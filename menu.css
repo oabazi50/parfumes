@@ -126,14 +126,14 @@ body {
   .d1{
       width: 100%;
       height: 35px;
-      background: red;
+     
     
   }
   .d2{
     width: 100%;
     height:200px;
     overflow: auto;
-    background: blue;
+   
     padding-top: 20px;
    
 
@@ -145,6 +145,6 @@ body {
     flex-direction: column;
     justify-content: end;
     align-items: center;
-    background: yellow;
+   
     
   }
