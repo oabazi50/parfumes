@@ -122,4 +122,16 @@ body {
     cursor: pointer;
   }
   
-  form button:hover
+  .d1{
+      width: 100%;
+      height: 20%;
+  }
+  .d2{
+    width: 100%;
+    height:50%;
+
+  }
+  .d3{
+    width: 100%;
+    height: 30%;
+  }
